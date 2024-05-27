@@ -4,7 +4,7 @@ MyCompiler is an online compiler that supports multiple programming languages in
 
 ## Features
 
-- **Multi-language Support**: Write and compile code in C, C++, Java, and Python.
+- **Multi-language Support**: Write and compile code in C++, Java, and Python.
 - **User-friendly Interface**: Simple and intuitive interface for coding.
 - **Real-time Compilation**: Instant feedback with real-time compilation and execution.
 - **Code Editor**: Integrated code editor with syntax highlighting and auto-completion.
@@ -23,5 +23,5 @@ To run this project locally, you need to have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/DevaRajan8/Mycompiler.git
+   git clone https://github.com/DevaRajan8/Mycompiler
    cd Mycompiler
