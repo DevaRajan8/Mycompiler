@@ -1,6 +1,6 @@
 # MyCompiler
 
-MyCompiler is an online compiler that supports multiple programming languages including C, C++, Java, and Python. This project aims to provide an easy-to-use platform for writing, compiling, and running code directly in the web browser.
+MyCompiler is an online compiler that supports multiple programming languages including C++, Java, and Python. This project aims to provide an easy-to-use platform for writing, compiling, and running code directly in the web browser.
 
 ## Features
 
