@@ -1,64 +1,64 @@
-# Mycompiler
+# MyCompiler
 
-Welcome to Mycompiler, an online compiler that supports C++, Java, and Python! This project allows users to write, compile, and execute code in these languages directly from a web interface.
+Welcome to my TechHub! This repository contains a collection of mini projects that I've developed across various domains including web development, machine learning, and general programming utilities. Each project showcases different technical skills and concepts.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Web Development Projects](#web-development-projects)
+  - [E-commerce Website](#e-commerce-website)
+  - [Color Flipper](#color-flipper)
+- [Python Projects](#python-projects)
+  - [Machine Learning](#machine-learning)
+  - [API Development](#api-development)
+  - [Flask](#flask)
+  - [pygame](#pygame)
+- [Common Projects](#common-projects)
 
-## Features
+## Web Development Projects
 
-- Write code in C++, Java, and Python
-- Compile and execute code directly from the web interface
-- Display compilation results and program output
-- User-friendly interface with CodeMirror editor for syntax highlighting
+### E-commerce Website
+An e-commerce platform built using HTML, CSS, and JavaScript. This project demonstrates the implementation of a shopping cart, product listings, and user authentication.
 
-## Setup and Installation
+[View the project](https://github.com/DevaRajan8/TechPortfolio/tree/995f0e662bb16a536c3bbb9572cefabb137cb293/Web%20Devolopment/Nostra)
 
-### Prerequisites
+### Color Flipper
+A simple yet interactive color flipper application that changes the background color upon user interaction. It showcases the use of JavaScript to manipulate the DOM.
 
-- Node.js
-- npm (Node Package Manager)
+[View the project](https://github.com/DevaRajan8/TechHub/tree/53a2e810ad4ade003d57b691a37df4b81fe5d204/Web%20Devolopment/Color_Flipper)
 
-### Installation
+## Python Projects
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/DevaRajan8/Mycompiler.git
-    cd Mycompiler
-    ```
+### Machine Learning
+This section includes various machine learning projects that involve data preprocessing, model training, and evaluation using libraries like Scikit-Learn and TensorFlow.
 
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
+[View the project](link-to-ml-projects-folder)
 
-3. Initialize the compiler:
-    ```javascript
-    const compiler = require("compilex");
-    const options = { stats: true };
-    compiler.init(options);
-    ```
+### API Development
+Projects in this section focus on developing APIs using Flask and FastAPI, demonstrating RESTful principles and CRUD operations.
 
-4. Start the server:
-    ```bash
-    node server.js
-    ```
+[View the project](link-to-api-projects-folder)
 
-5. Open your browser and navigate to `http://localhost:8000` to access the online compiler.
+### Flask Applications
+A collection of web applications built using Flask, showcasing backend development skills and integration with frontend technologies.
 
-## Usage
+[View the project](link-to-flask-projects-folder)
 
-1. **Select the Language**: Use the dropdown menu to select the programming language (C++, Java, or Python).
-2. **Write Code**: Write your code in the CodeMirror editor.
-3. **Provide Input (optional)**: If your program requires input, provide it in the input textarea.
-4. **Run the Code**: Click the "Run" button to compile and execute your code. The output will be displayed in the output textarea.
+## Common Projects
 
-## File Structure
+### Alarm Clock
+A Python-based alarm clock application that allows users to set alarms and receive notifications at the specified times.
 
+[View the project](link-to-alarm-clock-folder)
+
+### Virtual Coffee Machine
+A virtual coffee machine simulator built using Python. This project involves simulating the process of making different types of coffee and managing resources.
+
+[View the project](link-to-virtual-coffee-machine-folder)
+
+## Getting Started
+
+To get started with any of these projects, clone the repository and navigate to the respective project folder. Each project has its own README file with detailed instructions on how to set up and run the project.
+
+```bash
+git clone https://github.com/DevaRajan8/TechHub.git
+cd TechHub
